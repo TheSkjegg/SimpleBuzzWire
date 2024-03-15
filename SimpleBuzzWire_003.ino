@@ -24,8 +24,8 @@
 #define WireIO 5 // Interrupt
 #define Buzz 6
 #define Led1 0
-#define Led2 2
-#define Led3 1
+#define Led2 1
+#define Led3 2
 
 LedControl lc=LedControl(9,7,8,1);
 // 9 --> DIN, 7 --> CLK, 8 --> CS, 1 --> 1pcs LED driver
