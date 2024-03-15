@@ -12,8 +12,8 @@ Following parts are required:
   7. Passive buzzer (f.ex ABT-402-RC)
   9. 3D printed parts, as shared here:  https://www.printables.com/model/805640-simple-arduino-buzz-wire-game-with-timer
 
-  **Note:** The code relies on following library's:
-  LedControl
-  FlashStorage (as the SAMD21 does not have EEPROM)
+  **Note:** The code relies on following library's:  
+  LedControl  
+  FlashStorage (as the SAMD21 does not have EEPROM)  
 
   Game on!
