@@ -10,7 +10,7 @@ Following parts are required:
   5. Regular 5mm red LEDs
   6. Resistors as defined in wiring diagram
   7. Passive buzzer (f.ex ABT-402-RC)
-  8. Regular wire for wiring and a thicker wire for the "ring" (silicon wire is nice here!)
+  8. Regular thin wire for wiring and a thicker wire for the "ring" (silicon wire is nice here!)
   9. 3D printed parts, as shared here:  https://www.printables.com/model/805640-simple-arduino-buzz-wire-game-with-timer
 
   **Note:** The code relies on following library's:  
