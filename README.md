@@ -1,5 +1,6 @@
 # Simple Buzz Wire
-This repo holds the code and wiring diagram to build a simple Arduino Buzz Wire game with timer and high score as shown in this video:
+This repo holds the code and wiring diagram to build a simple Arduino Buzz Wire game with timer and high score as shown in this video:  
+https://youtu.be/MsHMBPJExv0?si=4v26Z5gdegQsc1nm
 
 Following parts are required:
   1. Some break or copper pipe (4,7mm diameter)
@@ -9,7 +10,7 @@ Following parts are required:
   5. Regular 5mm red LEDs
   6. Resistors as defined in wiring diagram
   7. Passive buzzer (f.ex ABT-402-RC)
-  8. 3D printed parts, as shared here:
+  8. 3D printed parts, as shared here:  https://www.printables.com/model/805640-simple-arduino-buzz-wire-game-with-timer
 
   **Note:** The code relies on following library's:
   LedControl
