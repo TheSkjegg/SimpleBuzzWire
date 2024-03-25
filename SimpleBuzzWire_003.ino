@@ -357,7 +357,7 @@ void loop() {
   if(digitalRead(StartPad1)==LOW){
     displayTime(0);
     while(digitalRead(StartPad1)==LOW){
-      
+      delay(100);
     }
     nono = true;
     attachInterrupt(WireIO, busted, CHANGE);
@@ -386,7 +386,7 @@ void loop() {
   else if(digitalRead(StartPad2)==LOW){
     displayTime(0);
     while(digitalRead(StartPad2)==LOW){
-      
+      delay(100);
     }
     nono = true;
     attachInterrupt(WireIO, busted, CHANGE); // Interrupt
